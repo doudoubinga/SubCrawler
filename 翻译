@@ -1,0 +1,315 @@
+today so we are going to start C language C language so before going to
+
+discuss about C language nothing but before going to learn one programming
+
+language first of all the two basic questions that every programmer should
+
+understand and of course we should answer so first one is a what is
+
+language what is language and second one
+
+what is computer language because we are going to learn a language so first of
+
+all we should know what is a language and what is computer language so what is
+
+the language means is a simple thing a language is nothing but a set of
+
+instructions so generally if you take a English language you language Hindi
+
+language so generally the languages we are using to communicate if you want to
+
+communicate with another person we are passing instructions using a particular
+
+language but while using a language we need to follow some of the instructions
+
+some rules already they had given so what are the rules for example if I want
+
+to speak in English I just want to form a sentence to form a sentence first we
+
+should be good grammatically we know that generally or else we cannot form a
+
+sentence we cannot speak in English language right in the same way so
+
+computer language is also for communication sake only
+
+is actually why computer language is to communicate with a computer but simply
+
+if they ask what is a computer language it is also a set of instructions simply
+
+set of programs set of programs so that will give an application application to
+
+understand easily it's a software a
+
+computer language is a software a computer language is a predefined
+
+application right using computer language so what we will do so means we
+
+will communicate with the system's right we will communicate with some other
+
+electronic devices in this world so that is actually need of computer language
+
+what is the need of computer language here need see just consider one person
+
+is present generally in this world only one process is there that is called
+
+communication right here it is I am teaching right nothing but I am
+
+communicating with you people right if you want to ask any question any query
+
+you want to pass then you should communicate with me right I am working
+
+means what I am communicating with my bike I just want to travel from one
+
+location to another location I am communicating with my mother
+
+and I am communicating with my father some reasons are there the particular
+
+purpose is there so communication means something you are getting right so if
+
+one person you want to communicate with another person generally they have to
+
+share information information is nothing but a passing
+
+instructions for general communication they are using general languages like
+
+English Telugu Hindi all these languages they will use all these languages but
+
+now here the person want to communicate with the machine any electronic machine
+
+this consider computer the person want to communicate with the machine sir
+
+question wiser why the person want to communicate with the machine simple
+
+thing just consider here it is I am asking the question what is the five
+
+factorial everyone can answer easily it's a 120
+
+all right it is a simple calculation right 120 suppose if my next question is
+
+what is 120 factorial no one can answer no one because it's a bit complex
+
+operation it's a bit complex operation so directly instantly we can tell if I
+
+give some time to you so then within that time you can calculate and we will
+
+but instead of performing complex operations manually it is better to
+
+interact with the electronic device example take calcium so using calculator
+
+whatever the number you give as an input fraction of seconds you will get
+
+downloaded right so that is the complex operations it is better to perform
+
+manually right so here but the problem is we need to pass instructions in
+
+machine code only if I want to communicate with you I am teaching
+
+something to you why I am using English language
+
+because all you people understand English language very easily so that is
+
+the only reason I am using English language in the same way if the person
+
+want to communicate with the computer the person needs to pass instructions in
+
+a machine code only in a computer understandable language only
+
+so what computer understands binary language computer understands binary
+
+language can anyone pass instructions in a binary language impossible we cannot
+
+write applications right in a binary language it's very complex so that's why
+
+first you have to learn one programming language properly right see using using
+
+any programming language so many examples C C++ Java dotnet all these are
+
+programming languages like high level languages first you have to learn one
+
+programming language all the rules write how to define the instruction set how to
+
+write a programs everything you should learn perfectly right so once you are
+
+perfect in one programming language right you should be perfect why the
+
+reason suppose if I am perfect in English language so then only I can
+
+interact with you in English language in the same way if you want to communicate
+
+with the computer using C language first you should learn perfectly C language
+
+after learning language we are writing programs writing writing programs
+
+right so programs means a set of instructions a equals to 10 B equals to
+
+20 C equals to a plus B and just we are printing C it's a program a simple
+
+program I have written addition of two numbers sir I don't know how to write
+
+the program just leave it forget about it this is not the program just looking
+
+like an English instruction set it's not a C language it's not C++ right so
+
+programming language instructions looking like an English statements only
+
+we are taking two variables nothing but two values and we are adding and
+
+printing simple this is what we call the source code source code but once a
+
+source code is ready nothing but once your program is ready using that program
+
+directly we cannot communicate with the computer it will reject sir wise are
+
+already program written using programming language yes but what all
+
+the instructions you have written so that is in English language computer
+
+cannot understand English computer understands only binary language that is
+
+once and zeros only so then what we should do how can we convert that
+
+English instruction set into binary language already they had given one
+
+program for us the program name is called compiler program name is called
+
+compiler this is a predefined program software that was already ready so we
+
+should take care about the code that what you have written we are responsible
+
+for conversion compilers all available so what compiler will do means
+
+that converts all these instructions into binary language same instructions
+
+will convert into binary language now machine code is ready so once machine
+
+code is ready so that you can pass as an input to the computer so that computer
+
+will produce the output this is actually the process of communication with the
+
+computer directly we cannot communicate with the computer why we are
+
+communicating means to perform complex operations in an easy way
+
+imagine ATM facility is not available I just want to withdraw some amount of
+
+money from my account how difficult it is right so it is a long process first I
+
+have to visit the bank and then so much process I have to complete finally I
+
+will get the money right suppose if availability machine availability is
+
+there right within one minute or two minutes you will get wherever you are in
+
+this world right you will get the money so machines always makes our task very
+
+easy so that is the only reason we are communicating with the machines right so
+
+what direct communication is not allowed because we cannot pass instructions in a
+
+binary language so first we have to learn one language after learning the
+
+language right we are writing programs and then converting into binary
+
+instruction set using compiler and then communication so that is why after
+
+writing the program's are why compilation is required this is the only
+
+reason behind that so this
+
+is why right we are using compiler what is an interface what is an interface for
+
+example here the communication process we have already seen communication
+
+process in some of the cases right if you want to interact with the machine no
+
+need to become a programmer right just consider I want to perform a money
+
+transaction from the ATM is it necessary to become a C programmer is it necessary
+
+to become a Java programmer is it necessary to become a dotnet programmer
+
+no not required right so not required simply in some of the cases as an end
+
+user also you can communicate with the machine how that is possible see so I am
+
+NOT the programmer but I want to interact with the machine to perform a
+
+particular task so what we should do see here suppose so this person is a
+
+programmer consider programmer so in this world along with the programmer one
+
+more person is present the person is called end-user our client we are always
+
+working for our clients only we are always working for end-users only we are
+
+developing applications for end-users only here programmers provides
+
+interfaces in her face sir what is interface just consider it's an
+
+application ATM application only simple definition of interface we know
+
+operating system is an interface right that is just working like a mediator
+
+between the programmer when end-user and as well
+
+as a background application interface means without having the background
+
+details we can perform our tasks see just consider end user and user end user
+
+want to perform one ATM transaction so can communicate can communicate using
+
+interfaces how whenever end user enters into this ATM Center on the screen it
+
+will give one message so what is it mrs. choose one language and here it is a
+
+number of options it will give English Lu Hindi options it will give so for
+
+example end user understands English end user click on English then all the
+
+instructions will come in English language only so what is happening in
+
+the background is not required for the end user nothing but whenever the end
+
+user enter their pin number right our end user when ever enters how much
+
+amount they want to withdraw how it is communicating with the server machine
+
+how it is communicating with a server machine how it is communicating with the
+
+database machine that is not required to the end user what is happening in the
+
+background is not required for the end user for example so we are driving a car
+
+you just want to increase the speed of the car we will accelerate generally so
+
+whenever we accelerate and accelerate the speed will increase or ematic aliy
+
+but what is happening in the background we don't know and of course that is not
+
+required for the driver this speed is increasing or not that's it if speed is
+
+not in using properly so then directly so we
+
+are communicating with another person so who is called a mechanic so here suppose
+
+if end-user trying to perform the transaction from the ATM if the
+
+transaction is successful so then the end-user leave the ATM center with the
+
+money for any reason if transaction has failed then end-user directly contact
+
+the bank management and the bank management contact programmer because
+
+programmer providing interface programmer providing interface so here
+
+as a programmer we are not communicating with the machines just we are developing
+
+applications nothing but we are providing interfaces by which every end
+
+user can easily interact with the machine so that is our motto right so
+
+this is about what is language what is computer language what is the need of
+
+computer language so finally the main purpose of computer language is
+
+developing applications by which end-users communicate with the machines
